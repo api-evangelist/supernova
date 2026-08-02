@@ -1,0 +1,26 @@
+generated: '2026-07-21'
+method: searched
+status: published
+source: https://www.supernova.io/ (Context Intelligence / MCP endpoints) + https://github.com/Supernova-Studio/agent-skills
+description: >-
+  Supernova ships Model Context Protocol (MCP) endpoints as part of its "Context
+  Intelligence" layer — feeding AI coding and design agents scoped, governed context
+  from a design system (design tokens, component APIs, documentation, and rules).
+  The MCP endpoint is provisioned per workspace/context from the Supernova Portal;
+  a "Contexts" governance layer (June 2026) controls exactly what an agent may read.
+server:
+  name: supernova
+  transport: http
+  scope: per-workspace context endpoint provisioned from the Supernova Portal
+  docs: https://developers.supernova.io/
+context_layer:
+  name: Contexts
+  purpose: Governance over what AI agents can read from the design system.
+  source: https://learn.supernova.io/changelog (June 2026)
+tools:
+  - name: sn_collect_agent_feedback
+    description: >-
+      Collect design-system friction points (missing context, conflicts,
+      reformulations, corrections) captured during frontend development so agent
+      output improves over time. Requires feedback collection enabled in the context.
+    source: https://github.com/Supernova-Studio/agent-skills

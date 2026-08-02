@@ -1,0 +1,95 @@
+# Supernova.io
+
+> Supernova.io is a collaborative platform that empowers product teams to create and write content with AI assistance while staying connected to their company's design system.
+
+Supernova is an AI-powered platform for product teams: design system management, documentation, code automation, and collaborative prototyping connected to your tokens, components, and brand.
+
+## Core
+
+- [Homepage](https://www.supernova.io): Overview of Supernova — AI-powered platform for product teams to build with their design system.
+- [Pricing](https://www.supernova.io/pricing): Flexible plans for managing design systems and building high-fidelity prototypes, from solo creators to enterprise.
+- [Enterprise](https://www.supernova.io/enterprise): Secure, governed platform combining design system management, AI context infrastructure, and collaborative prototyping for large teams.
+- [Customers](https://www.supernova.io/customers): How real customers accelerate digital product development with design systems built on Supernova.
+- [Request a demo](https://www.supernova.io/request-a-demo): Book a demo to see how Supernova fits your design system and product workflow.
+
+## Platform
+
+- [Collaborative AI prototyping](https://www.supernova.io/collaborative-ai-prototyping): Prototype and hand over high-fidelity features from your components, layouts, and tokens without terminal, Git, or IDE knowledge.
+- [Write with AI](https://www.supernova.io/write-with-ai): Draft PRDs, specs, and release notes in minutes — connected to your prototypes and updated in real time.
+- [Documentation](https://www.supernova.io/documentation): Build and mature design system documentation — guidelines, decisions, assets, and code in one place.
+- [Design system management](https://www.supernova.io/design-system-management): Connect design and engineering tools into a seamless ecosystem for managing your design system.
+- [Ask AI and browse your design system](https://www.supernova.io/ask-ai-browse-your-design-system): Supernova Portal — search design system data and get AI-powered answers for designers and engineers.
+- [Code automation](https://www.supernova.io/code-automation): Automate design system workflows, eliminate manual updates, and ship your brand faster.
+- [Integrations](https://www.supernova.io/integrations): Pre-built integrations that unify design systems, documentation, and code automation across your stack.
+
+## Solutions
+
+- [Design system adoption](https://www.supernova.io/adoption): Streamline design processes and break down silos with a connected design system on Supernova.
+- [DesignOps](https://www.supernova.io/designops): Streamline design processes and break down team silos with Supernova for DesignOps.
+- [Developer experience](https://www.supernova.io/developer-experience): Develop your design system without the overhead of building and maintaining internal tooling.
+- [Supernova + Tokens Studio](https://www.supernova.io/supernova-tokens-studio): Reduce design workload with Supernova and Tokens Studio — design smarter across tokens and delivery.
+
+## Resources
+
+- [Blog](https://www.supernova.io/blog): Articles on design systems, design-to-code, AI, and product team workflows.
+- [Guides](https://www.supernova.io/guides): In-depth guides to build, scale, and ship your design system with confidence.
+- [Reports & resources](https://www.supernova.io/reports): Industry reports and research on design systems, automation, and design-to-code workflows.
+- [Events](https://www.supernova.io/events): Upcoming events, panels, and conferences from Supernova.
+- [ROI calculator](https://www.supernova.io/roi): Build a business case and quantify the ROI of your design system initiative.
+- [Design system mapping tool](https://www.supernova.io/design-system-mapping-tool): Chart the path to design system success — align your team and boost impact.
+
+## Reports & downloads
+
+- [State of Design Tokens 2024](https://www.supernova.io/state-of-design-tokens): Survey of 200+ designers and developers on the state of design tokens in 2024.
+- [State of Components 2023](https://www.supernova.io/state-of-components): Survey of 100+ practitioners on how components are used across industries in 2023.
+- [State of AI in Design Systems 2024](https://www.supernova.io/survey/state-of-ai-in-ds-2024-report): Survey on how design systems teams adopt and govern AI in 2024.
+- [Design-to-code efficiency checklist](https://www.supernova.io/design-to-code-efficiency-checklist): Practical checklist to optimize design-to-code workflows and collaboration.
+- [Design system launch guide](https://www.supernova.io/campaigns/analytics/analytics-guide): Treat design system updates like product launches — goals, buzz, tracking, and recognition.
+- [Engineering leaders guide to Storybook](https://www.supernova.io/campaigns/storybook/get-storybook-guide): Scale Storybook across your org — beyond a dev-only sandbox.
+
+## Company & legal
+
+- [Careers](https://www.supernova.io/careers): Open roles at Supernova — help make design systems easier.
+- [Privacy policy](https://www.supernova.io/legal/privacy-policy): How Supernova collects, uses, and protects your information.
+- [Terms & conditions](https://www.supernova.io/legal/terms-and-conditions): Terms for using the Supernova website and software.
+- [Master subscription agreement](https://www.supernova.io/legal/master-subscription-agreement): Subscription agreement for Supernova services.
+- [For AI agents](https://www.supernova.io/for-ai): Human-readable overview of key Supernova pages for LLMs and AI crawlers.
+
+## Recent blog posts
+
+- [Building a Stronger Brand With a Scalable Design System](https://www.supernova.io/blog/building-a-stronger-brand-with-a-scalable-design-system): How design systems turn brand principles into enforceable standards, keeping teams consistent across products, markets, and platforms without slowing them down.
+- [We Just Shipped AI Context Management](https://www.supernova.io/blog/we-just-shipped-ai-context-management): We just shipped AI context management, so every team can give their AI agents the context they actually need.
+- [How To Align Your Design System With Business Objectives](https://www.supernova.io/blog/align-design-system-with-business-objectives): Learn how to connect design system work to business metrics, prove ROI to leadership, and turn your system into a measurable growth driver.
+- [How Design Systems Improve Code Quality and Maintainability](https://www.supernova.io/blog/design-systems-code-quality-maintainability): Design systems eliminate fragmented code, enforce standards automatically, and make every bug fix propagate across your entire product. Here's how it works in practice.
+- [March 2026 Product Updates: Figma Extended Collections, Prototyping Templates & Design-to-Code Rendering](https://www.supernova.io/blog/march-2026-product-updates-figma-collections-prototyping-templates): Transform your design system workflow with multi-brand token management, curated prototype templates, and Figma-to-code rendering that preserves layer structure.
+- [Figma to prototype: paste a link, get working code](https://www.supernova.io/blog/figma-frame-import-prototyping): Import Figma frames directly into Supernova and generate working prototypes with actual layer structure, not screenshots. Paste a link, get production-ready code.
+- [The real dfference between AI coding platforms (and how to choose)](https://www.supernova.io/blog/ai-coding-tools-comparison-guide): The best AI coding tool isn't the one with the most hype, it's the one that fits your actual workflow.
+- [Figma Extended Collections in Supernova: Scale Multi-Brand Design Systems Without Duplication](https://www.supernova.io/blog/figma-extended-collections-multi-brand-design-systems): We're introducing support for Figma's Extended Collections, making multi-brand design systems much easier to manage.
+- [Why Product Managers Need Design System Knowledge for Better Prototyping](https://www.supernova.io/blog/design-system-knowledge-product-managers-prototyping): Discover why design system knowledge is crucial for product manager prototyping. Learn how it accelerates decision-making, reduces rework, and improves PM design collaboration.
+- [February 2026 Product Updates: Container Versioning & Team Collaboration](https://www.supernova.io/blog/february-2026-product-updates-container-versioning-team-collaboration): Manage design system containers with semantic versioning, invite external collaborators to projects, and leverage documentation-powered prototyping.
+- [How Design Systems Unlock the Power of Vibe Coding](https://www.supernova.io/blog/how-design-systems-unlock-the-power-of-vibe-coding): Discover how design systems enable AI-driven coding to create production-ready prototypes that bridge the gap between discovery and delivery.
+- [The Hidden Users of Your Design System and How to Support Them](https://www.supernova.io/blog/the-hidden-users-of-your-design-system-and-how-to-support-them): Discover how design systems deliver value to product managers, marketing, and QA teams by improving cross-functional adoption and operational efficiency.
+- [Unlock Supernova: 3 Features Users Swear By](https://www.supernova.io/blog/unlock-supernova-3-features-users-swear-by): Learn how Supernova helps you unlock full potential of your design system.
+- [What High-Performing Enterprises Know About Design Systems](https://www.supernova.io/blog/what-high-performing-enterprises-know-about-design-systems): Learn how leading enterprises like Hotmart and SoFi use design system governance and automation to drive measurable ROI and team efficiency.
+- [January 2026 Product Updates: AI Prototyping Agent & Code Components](https://www.supernova.io/blog/january-2026-product-updates): This month’s release focuses on making your design and prototyping workflows faster, smoother, and more collaborative.
+
+## Guide playbooks
+
+- [Supernova Developer's Playbook](https://www.supernova.io/guides/supernova-developers-playbook): Your adventure guide to mastering, customizing, and automating within the Supernova ecosystem.
+- [Scaling Your Product Development with Supernova](https://www.supernova.io/guides/scaling-your-product-development-with-supernova): Your guide to setting up, documenting, and scaling a design system across multiple brands, products, and platforms in Supernova—while building a scalable contribution model.
+- [Release Your Next Design System Update With a Bang!](https://www.supernova.io/guides/release-your-next-design-system-update-with-a-bang): Tired of releasing design system updates into the void? This guide helps you launch with a bang, get your team's attention, and track what actually worked.
+- [Supernova Figma Variables Playbook](https://www.supernova.io/guides/supernova-figma-variables-playbook): Most teams use variables to stay consistent. The best teams use them to scale. This guide shows you how to turn Figma variables into a real design token system — ready for docs, code, and teams.
+- [The Engineering Leader's Guide to Storybook](https://www.supernova.io/guides/the-engineering-leaders-guide-to-storybook): If your Storybook is only useful to your dev team, you're missing half its value — this guide shows you how to make it part of your system, not just your stack.
+
+## Optional
+
+- [2025 wrap-up](https://www.supernova.io/2025): Year-in-review highlights from Supernova.
+- [Prototyping landing page](https://www.supernova.io/lp/prototyping): Campaign page for prototyping with your design system.
+- [Design-to-code drama bingo](https://www.supernova.io/bingo): Interactive bingo about design-to-code workflow pain points.
+- [Learn Supernova](https://learn.supernova.io/): Product documentation and learning resources.
+- [Developers](https://developers.supernova.io/): API and developer documentation for Supernova.
+- [Slack community](https://community.supernova.io/): Supernova Friends community on Slack.
+- [FAQ & help center](https://supernova-help.zendesk.com/hc/en-us): Frequently asked questions and support articles.
+- [Changelog](https://learn.supernova.io/changelog): Product updates and release notes.
+- [Status](https://status.supernova.io/): Supernova platform uptime and incident history.
+- [Trust center](https://app.vanta.com/supernova.io/trust/gi7a46lxd23m07sgju3ook): Security, compliance, and trust documentation.

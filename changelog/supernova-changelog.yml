@@ -1,0 +1,37 @@
+generated: '2026-07-21'
+method: searched
+source: https://learn.supernova.io/changelog
+scheme: calendar (month-year)
+current: '2026-06'
+entries:
+  - version: '2026-06'
+    date: '2026-06'
+    breaking: false
+    highlights:
+      - "Contexts: control what AI reads from your design system (governance layer scoping agent access)."
+      - "SCIM provisioning for enterprise identity management."
+  - version: '2026-05'
+    date: '2026-05'
+    breaking: false
+    highlights:
+      - "Design system adoption dashboard — track which components teams actively use over time."
+  - version: '2026-04'
+    date: '2026-04'
+    breaking: false
+    highlights:
+      - "Selection mode — point directly in a prototype to what you want changed."
+  - version: '2026-03'
+    date: '2026-03'
+    breaking: false
+    highlights:
+      - "Figma design rendering in prototyping."
+      - "Login customization."
+      - "Template-based prototyping."
+      - "Extended collections and plugin updates for multi-brand systems."
+  - version: '2026-02'
+    date: '2026-02'
+    breaking: false
+    highlights:
+      - "Documentation integration with the coding agent."
+      - "Container management visibility and automatic version management for code containers."
+      - "Email-based collaborator invitations."

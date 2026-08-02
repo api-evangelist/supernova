@@ -1,0 +1,41 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.npmjs.com/org/supernovaio
+packages:
+  - language: javascript
+    registry: npm
+    name: "@supernovaio/sdk"
+    version: 2.4.8
+    url: https://www.npmjs.com/package/@supernovaio/sdk
+    install: npm install @supernovaio/sdk
+    description: Supernova.io JS/TS SDK — read/write API for tokens, assets, components, documentation; asset rendering pipeline.
+    license: MIT
+    source_code: https://github.com/Supernova-Studio/sdk-typescript
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@supernovaio/cli"
+    version: 2.2.5
+    url: https://www.npmjs.com/package/@supernovaio/cli
+    install: npm install -g @supernovaio/cli
+    description: Supernova.io command line interface for CI/CD tasks (import Storybook, sync Tokens Studio data, run exporters, upload templates).
+    license: MIT
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@supernovaio/sdk-exporters"
+    version: 2.4.8
+    url: https://www.npmjs.com/package/@supernovaio/sdk-exporters
+    install: npm install @supernovaio/sdk-exporters
+    description: Supernova.io Exporter SDK — framework for building code exporters from design system data.
+    license: MIT
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@supernovaio/export-helpers"
+    version: 1.0.33
+    url: https://www.npmjs.com/package/@supernovaio/export-helpers
+    install: npm install @supernovaio/export-helpers
+    description: Supernova.io export helpers and utilities used by exporter packages.
+    license: MIT
+    official: true

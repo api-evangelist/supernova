@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://learn.supernova.io/changelog + https://status.supernova.io/
+versioning:
+  scheme: calendar (month-year platform releases; SemVer for SDK/CLI packages)
+  current: '2026-06'
+  docs: https://learn.supernova.io/changelog
+  notes: >-
+    The hosted platform ships monthly, dated feature releases (e.g. "June 2026").
+    The client packages (@supernovaio/sdk 2.4.8, @supernovaio/cli 2.2.5) follow
+    semantic versioning independently.
+status_page: https://status.supernova.io/
+sla:
+  url: https://www.supernova.io/enterprise
+  note: Enterprise plan; no public numeric uptime target published.
+deprecation:
+  policy_url: null
+  note: No public deprecation/Sunset-header policy located.

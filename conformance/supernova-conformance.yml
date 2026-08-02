@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.supernova.io/ (enterprise security) + https://www.supernova.io/enterprise
+standards:
+  - id: soc2
+    conforms: true
+    evidence: Enterprise security posture lists SOC 2 on supernova.io.
+  - id: iso-27001
+    conforms: true
+    evidence: Enterprise security posture lists ISO certification on supernova.io.
+  - id: gdpr
+    conforms: true
+    evidence: Enterprise security posture lists GDPR compliance on supernova.io.
+  - id: ccpa
+    conforms: true
+    evidence: Enterprise security posture lists CCPA compliance on supernova.io.
+  - id: scim
+    conforms: true
+    evidence: SCIM provisioning shipped June 2026 (changelog) for enterprise identity.
+  - id: sso
+    conforms: true
+    evidence: Enterprise SSO/SCIM identity documented on supernova.io.
+compliance_program:
+  certifications: [SOC 2, ISO 27001, GDPR, CCPA]
+  page: https://www.supernova.io/enterprise

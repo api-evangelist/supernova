@@ -1,0 +1,27 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/@supernovaio/sdk (SDK readme — "Obtaining API Key")
+docs: https://developers.supernova.io/
+summary:
+  types: [apiKey]
+  api_key_in: [token]
+  oauth2_flows: []
+  note: >-
+    Supernova exposes no public REST OpenAPI; programmatic access is via the official
+    JS/TS SDK and CLI. Both authenticate with a personal access key (API token) obtained
+    from the Supernova.io account settings. Enterprise workspaces additionally support
+    SSO and SCIM provisioning for platform (human) access.
+schemes:
+  - name: PersonalAccessToken
+    type: apiKey
+    scheme: token
+    obtained_from: Supernova.io account / workspace settings
+    used_by:
+      - "@supernovaio/sdk"
+      - "@supernovaio/cli"
+    sources:
+      - https://registry.npmjs.org/@supernovaio/sdk
+enterprise_identity:
+  sso: true
+  scim: true
+  source: https://learn.supernova.io/changelog (June 2026 — SCIM provisioning)

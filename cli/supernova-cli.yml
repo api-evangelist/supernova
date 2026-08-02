@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.npmjs.com/package/@supernovaio/cli
+name: Supernova CLI
+binary: supernova
+package: "@supernovaio/cli"
+version: 2.2.5
+runtime: Node 22 or newer
+docs: https://developers.supernova.io/latest/supernova-cli/
+purpose: >-
+  Run Supernova tasks from CI/CD pipelines, action triggers (GitHub Actions), or the
+  command line — automating design-system data export, storybook import, and token sync.
+install:
+  - method: npm
+    command: npm install -g @supernovaio/cli
+  - method: yarn
+    command: yarn global add @supernovaio/cli
+commands:
+  - name: import-storybook
+    summary: Host a private Storybook by importing it into Supernova.
+    docs: https://developers.supernova.io/latest/supernova-cli/cli-commands/import-storybook-2PgA2h0o-2PgA2h0o
+  - name: sync-tokens-studio-data
+    summary: Analyze code and push Tokens Studio snapshots into Supernova.
+    docs: https://developers.supernova.io/latest/supernova-cli/cli-commands/sync-tokens-studio-data/tokens-studio-101-bmB0dwM8
+  - name: run-exporters-locally
+    summary: Run design-system exporters locally against your workspace data.
+    docs: https://developers.supernova.io/latest/supernova-cli/cli-commands/run-exporters-locally-B9r7rRrE
+  - name: template-upload
+    summary: Upload exporter/documentation templates (rejects plaintext NPM tokens in .npmrc; use --npmToken).
+authentication: personal access key (API token) passed to the CLI, same key as the SDK

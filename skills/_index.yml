@@ -1,0 +1,11 @@
+generated: '2026-07-21'
+method: searched
+source: https://github.com/Supernova-Studio/agent-skills
+install: npx skills add supernova-studio/agent-skills
+license: MIT
+skills:
+  - file: supernova-capture-frontend-feedback.md
+    name: Capture frontend feedback
+    api: mcp/supernova-mcp.yml
+    operations: [sn_collect_agent_feedback]
+    install: npx skills add supernova-studio/agent-skills --skill capture-frontend-feedback
