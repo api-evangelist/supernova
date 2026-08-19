@@ -2,12 +2,10 @@ generated: '2026-07-21'
 method: searched
 status: published
 source: https://www.supernova.io/ (Context Intelligence / MCP endpoints) + https://github.com/Supernova-Studio/agent-skills
-description: >-
-  Supernova ships Model Context Protocol (MCP) endpoints as part of its "Context
-  Intelligence" layer — feeding AI coding and design agents scoped, governed context
-  from a design system (design tokens, component APIs, documentation, and rules).
-  The MCP endpoint is provisioned per workspace/context from the Supernova Portal;
-  a "Contexts" governance layer (June 2026) controls exactly what an agent may read.
+description: Supernova ships Model Context Protocol (MCP) endpoints as part of its "Context Intelligence"
+  layer — feeding AI coding and design agents scoped, governed context from a design system (design tokens,
+  component APIs, documentation, and rules). The MCP endpoint is provisioned per workspace/context from
+  the Supernova Portal; a "Contexts" governance layer (June 2026) controls exactly what an agent may read.
 server:
   name: supernova
   transport: http
@@ -18,9 +16,17 @@ context_layer:
   purpose: Governance over what AI agents can read from the design system.
   source: https://learn.supernova.io/changelog (June 2026)
 tools:
-  - name: sn_collect_agent_feedback
-    description: >-
-      Collect design-system friction points (missing context, conflicts,
-      reformulations, corrections) captured during frontend development so agent
-      output improves over time. Requires feedback collection enabled in the context.
-    source: https://github.com/Supernova-Studio/agent-skills
+- name: sn_collect_agent_feedback
+  description: Collect design-system friction points (missing context, conflicts, reformulations, corrections)
+    captured during frontend development so agent output improves over time. Requires feedback collection
+    enabled in the context.
+  source: https://github.com/Supernova-Studio/agent-skills
+deployment:
+  mode: none
+  endpoint: https://developers.supernova.io/
+  verified: probed
+  probe: dead
+  note: the endpoint this manifest claimed did not answer; recorded as none rather than deleted so the
+    claim stays auditable
+  checked: '2026-08-12'
+  source: catalog MCP census
