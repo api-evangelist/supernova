@@ -10,6 +10,17 @@ description: >-
   pipelines. Supernova is backed by EQT Ventures and serves enterprise teams with SOC 2,
   ISO 27001, GDPR, CCPA, and SSO/SCIM support.
 url: https://raw.githubusercontent.com/api-evangelist/supernova/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: self-serve
