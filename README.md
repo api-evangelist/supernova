@@ -64,6 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Supernova is a company surfaced as a portfolio company of eqt-ventures and added to the API Evangelist network as a stub for enrichment. Sector: design-tech. This profile is a lead awaiting the enrichment pipeline.
+Supernova is an AI-powered platform for product teams that unifies design system management, documentation, code automation, and collaborative prototyping around a single source of truth for design tokens, components, and brand. Its "Context Intelligence" layer feeds AI coding and design agents scoped, governed context via Model Context Protocol (MCP) endpoints, while an official JS/TS SDK, a command-line interface, and an exporter framework let engineering teams automate design-to-code pipelines. Supernova is backed by EQT Ventures and serves enterprise teams with SOC 2, ISO 27001, GDPR, CCPA, and SSO/SCIM support.
 
-Backed by: eqt-ventures — https://www.supernova.io/
+**Areas:** Company · Design Tech · Design Systems · Design Tokens · Documentation · Code Automation · Developer Experience · AI Agents · MCP
+
+## Supernova on APIs.io
+
+Everything profiled for Supernova is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/supernova/](https://apis.io/providers/supernova/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [supernova](https://apis.io/servers/supernova/supernova/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Supernova Authentication](https://apis.io/security/supernova/supernova-authentication/)
+- [Supernova Domain Security](https://apis.io/security/supernova/supernova-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.supernova.io/)
+- [Documentation](https://developers.supernova.io/)
+- [Getting started](https://developers.supernova.io/)
+- [Pricing](https://www.supernova.io/pricing)
+- [Sign up](https://portal.supernova.io/auth/sign-up)
+- [Support](https://community.supernova.io/)
+- [Blog](https://www.supernova.io/blog)
+- [Compliance](https://www.supernova.io/enterprise)
+- [Terms of service](https://www.supernova.io/legal/terms-and-conditions)
+- [Privacy policy](https://www.supernova.io/legal/privacy-policy)
+- [GitHub](https://github.com/Supernova-Studio/)
+- [Status](https://status.supernova.io/)
+
+## API Evangelist rating
+
+**Kin Score 31.6** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 5.3 |
+| Contract governance | 18.2 |
+| Operational transparency | 34.2 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 39.5 |
+
+**Agent readiness 6.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | yes |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/supernova/](https://apis.io/providers/supernova/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Supernova: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/supernova/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
